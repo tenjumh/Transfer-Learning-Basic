@@ -3,8 +3,8 @@ Transfer Learning Basic
 
 Transfer Learning에 대해서 알아보자.
 
-Transfer learning is the process of:
-1. Taking a network pre-trained on a dataset
+Transfer learning is the process of: <br>
+1. Taking a network pre-trained on a dataset<br>
 2. And utilizing it to recognize image/object categories it was not trained on
 
 two types of transfer learning
